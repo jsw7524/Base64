@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1389058037 source:c:\google driver\debase64\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

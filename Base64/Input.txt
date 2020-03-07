@@ -1,0 +1,1 @@
+Type (or copy-paste) some text to a textbox bellow. The text can be a Base64 string to decode or any string to encode to a Base64. 
